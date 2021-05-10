@@ -1,0 +1,12 @@
+.cont {
+  border: 2px solid red;
+  width: 1000px;
+  height: 500px;
+}
+.dive {
+  background-color: salmon;
+  /* float: ; */
+  width: 40px;
+  height: 40px;
+  margin : 5px;
+}
